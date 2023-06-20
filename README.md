@@ -1,6 +1,6 @@
 <img src="screenshot.png">
   
-# Projet effectué durant ma formation Developpeur - WordPress<br>
+# Projet Developpeur - WordPress<br>
 <a href="https://raquel-salamone.fr/laboratoire/ridingcities/" target="_blank" alt=Rinding style="margin-top: 10px;" /> Riding-Cities</a><br>
 
 Projet 2 - ## Riding-Citites<br>
